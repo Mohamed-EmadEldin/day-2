@@ -1,3 +1,3 @@
-console.log("added by ismail dalkrfgnokasndfokjans");
-console.log("Conflict me please")
+console.log("Conflict me please");
+console.log("added by ismail no defro effect");
 
